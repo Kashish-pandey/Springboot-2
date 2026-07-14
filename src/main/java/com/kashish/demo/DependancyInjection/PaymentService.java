@@ -5,6 +5,6 @@ import org.springframework.stereotype.Component;
 
 public class PaymentService {
     public void pay(){
-        System.out.print("Payment done");
+        System.out.println("Payment done");
     }
 }
